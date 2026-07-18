@@ -27,5 +27,3 @@ This folder contains the supplementary datasets associated with the manuscript:
 
 - Docking_Grid_Coordinates.xlsx
 - Virtual_Screening_Results.xlsx
-
-The MM-PBSA decomposition tables contain residue-wise van der Waals, electrostatic, polar solvation, non-polar solvation, total binding free energy contributions, standard deviation (SD), and standard error of the mean (SEM) calculated from 400 snapshots extracted from the final 20 ns of the 500 ns Gaussian accelerated molecular dynamics (GaMD) simulations.
