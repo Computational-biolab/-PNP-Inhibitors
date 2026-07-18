@@ -25,8 +25,16 @@ PNP-Inhibitors/
 ├── README.md
 ├── LICENSE
 │
-├── Supplementary_Data/
-│   ├── Per-residue MM-PBSA decomposition tables
+Supporting_Data/
+│
+├── README.md
+├── Table_S1_C0_PerResidue_MM_PBSA.xlsx
+├── Table_S2_C1_PerResidue_MM_PBSA.xlsx
+├── Table_S3_C2_PerResidue_MM_PBSA.xlsx
+├── Table_S4_C3_PerResidue_MM_PBSA.xlsx
+├── Table_S5_C4_PerResidue_MM_PBSA.xlsx
+├── Docking_Grid_Coordinates.xlsx
+└── Virtual_Screening_Results.xlsx
 
 ## Computational Workflow
 
